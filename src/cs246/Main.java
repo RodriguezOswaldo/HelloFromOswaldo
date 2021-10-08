@@ -6,6 +6,6 @@ public class Main {
         String friend = "Jose";
         Name name = new Name();
         name.printName();
-        System.out.println("Hi this is" + friend +"!");
+        System.out.println("Hi this is " + friend +"!");
     }
 }
