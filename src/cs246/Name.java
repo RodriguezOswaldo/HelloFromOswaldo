@@ -10,6 +10,5 @@ public class Name {
     public void printName(){
         this.name = getName();
         System.out.println("Hello, my name is " + name);
-
     }
 }
